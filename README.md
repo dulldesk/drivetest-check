@@ -3,15 +3,15 @@ Script to check whether ON DriveTest Centres have opened (as the COVID-19 pandem
 
 The script scrapes information from the [home page](https://drivetest.ca/) of the DriveTest Centres. 
 
-# Installation
-1. Install node.js 
-2. Clone or download this repository
+## Installation
+1. Clone or download this repository
+2. Install node.js 
 3. In a terminal, run `npm ci` in the directory of this repo (requires >= npm v5.7.1)
 
-# Usage
+## Usage
 Run `node index.js`. The information appears in the console. 
 
-# Sample Output
+## Sample Output
 ```
 https://drivetest.ca/
 Checking for status...
